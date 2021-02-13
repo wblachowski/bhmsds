@@ -3,6 +3,9 @@
 ## What?
 This dataset contains 27000 images of 18 handwritten mathematical symbols (1500 images per symbol). The symbols are: `0,1,2,3,4,5,6,7,8,9,*,-,+,/,w,x,y,z`.
 
+You can find the symbols in the `symbols` directory. Each file has the following format: `<symbol-name>-<id>.png`, e.g. `slash-1484.png`.
+
+
 ![Symbols](./assets/symbols.gif)
 
 ## Why?
