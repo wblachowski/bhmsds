@@ -6,7 +6,7 @@ This dataset contains 27000 images of 18 handwritten mathematical symbols (1500 
 ![Symbols](./assets/symbols.gif)
 
 ## Why?
-The data was initially gathered for use in the [camculator](https://github.com/wblachowski/camculator) project. We couldn't find a dataset that would suit our needs, which were digits (MNIST covers this case), some letters (Extended MNIST is fine) and symbols like `/` and `+` (we didn't find anything of high quality and quantity).
+The data was initially gathered for use in the [camculator](https://github.com/wblachowski/camculator) project. We couldn't find a dataset that would suit our needs, which were digits (MNIST covers this case), some letters (Extended MNIST is fine) and symbols like `/` and `+` (we couldn't find any dataset of high quality and quantity for this case).
 
 ## How?
 It was gathered by having a couple of people (hence the writing style is not very diverse - sorry about that!) fill numerous sheets of paper with handwritten symbols. We later took the photos of the sheets and put it into a simple processing pipeline which extracted digits automagically, cropping them and scaling to the desired resolution. We later filtered out any trash outputs.
