@@ -1,4 +1,6 @@
 # Basic Handwritten Math Symbols Dataset
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## What?
 This dataset contains 27000 images of 18 handwritten mathematical symbols (1500 images per symbol). The symbols are: `0,1,2,3,4,5,6,7,8,9,*,-,+,/,w,x,y,z`.
